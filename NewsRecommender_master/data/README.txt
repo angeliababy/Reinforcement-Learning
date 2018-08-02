@@ -1,0 +1,2 @@
+ctrVsAlpha - Contains plots and other files generated for different settings of alpha for each of the three strategies
+ctrVsT - Contains plots of CTR versus T for the best settings of alpha for each of the three strategies
